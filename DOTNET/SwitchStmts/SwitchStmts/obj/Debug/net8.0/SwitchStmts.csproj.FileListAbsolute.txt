@@ -1,0 +1,14 @@
+D:\Hema\SwitchStmts\SwitchStmts\bin\Debug\net8.0\SwitchStmts.exe
+D:\Hema\SwitchStmts\SwitchStmts\bin\Debug\net8.0\SwitchStmts.deps.json
+D:\Hema\SwitchStmts\SwitchStmts\bin\Debug\net8.0\SwitchStmts.runtimeconfig.json
+D:\Hema\SwitchStmts\SwitchStmts\bin\Debug\net8.0\SwitchStmts.dll
+D:\Hema\SwitchStmts\SwitchStmts\bin\Debug\net8.0\SwitchStmts.pdb
+D:\Hema\SwitchStmts\SwitchStmts\obj\Debug\net8.0\SwitchStmts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hema\SwitchStmts\SwitchStmts\obj\Debug\net8.0\SwitchStmts.AssemblyInfoInputs.cache
+D:\Hema\SwitchStmts\SwitchStmts\obj\Debug\net8.0\SwitchStmts.AssemblyInfo.cs
+D:\Hema\SwitchStmts\SwitchStmts\obj\Debug\net8.0\SwitchStmts.csproj.CoreCompileInputs.cache
+D:\Hema\SwitchStmts\SwitchStmts\obj\Debug\net8.0\SwitchStmts.dll
+D:\Hema\SwitchStmts\SwitchStmts\obj\Debug\net8.0\refint\SwitchStmts.dll
+D:\Hema\SwitchStmts\SwitchStmts\obj\Debug\net8.0\SwitchStmts.pdb
+D:\Hema\SwitchStmts\SwitchStmts\obj\Debug\net8.0\SwitchStmts.genruntimeconfig.cache
+D:\Hema\SwitchStmts\SwitchStmts\obj\Debug\net8.0\ref\SwitchStmts.dll

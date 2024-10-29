@@ -1,0 +1,14 @@
+D:\Hema\ClsBranch\ClsBranch\bin\Debug\net8.0\ClsBranch.exe
+D:\Hema\ClsBranch\ClsBranch\bin\Debug\net8.0\ClsBranch.deps.json
+D:\Hema\ClsBranch\ClsBranch\bin\Debug\net8.0\ClsBranch.runtimeconfig.json
+D:\Hema\ClsBranch\ClsBranch\bin\Debug\net8.0\ClsBranch.dll
+D:\Hema\ClsBranch\ClsBranch\bin\Debug\net8.0\ClsBranch.pdb
+D:\Hema\ClsBranch\ClsBranch\obj\Debug\net8.0\ClsBranch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hema\ClsBranch\ClsBranch\obj\Debug\net8.0\ClsBranch.AssemblyInfoInputs.cache
+D:\Hema\ClsBranch\ClsBranch\obj\Debug\net8.0\ClsBranch.AssemblyInfo.cs
+D:\Hema\ClsBranch\ClsBranch\obj\Debug\net8.0\ClsBranch.csproj.CoreCompileInputs.cache
+D:\Hema\ClsBranch\ClsBranch\obj\Debug\net8.0\ClsBranch.dll
+D:\Hema\ClsBranch\ClsBranch\obj\Debug\net8.0\refint\ClsBranch.dll
+D:\Hema\ClsBranch\ClsBranch\obj\Debug\net8.0\ClsBranch.pdb
+D:\Hema\ClsBranch\ClsBranch\obj\Debug\net8.0\ClsBranch.genruntimeconfig.cache
+D:\Hema\ClsBranch\ClsBranch\obj\Debug\net8.0\ref\ClsBranch.dll

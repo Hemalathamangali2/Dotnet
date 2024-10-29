@@ -1,0 +1,14 @@
+D:\Hema\Max3\Max3\obj\Debug\net8.0\Max3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hema\Max3\Max3\obj\Debug\net8.0\Max3.AssemblyInfoInputs.cache
+D:\Hema\Max3\Max3\obj\Debug\net8.0\Max3.AssemblyInfo.cs
+D:\Hema\Max3\Max3\obj\Debug\net8.0\Max3.csproj.CoreCompileInputs.cache
+D:\Hema\Max3\Max3\bin\Debug\net8.0\Max3.exe
+D:\Hema\Max3\Max3\bin\Debug\net8.0\Max3.deps.json
+D:\Hema\Max3\Max3\bin\Debug\net8.0\Max3.runtimeconfig.json
+D:\Hema\Max3\Max3\bin\Debug\net8.0\Max3.dll
+D:\Hema\Max3\Max3\bin\Debug\net8.0\Max3.pdb
+D:\Hema\Max3\Max3\obj\Debug\net8.0\Max3.dll
+D:\Hema\Max3\Max3\obj\Debug\net8.0\refint\Max3.dll
+D:\Hema\Max3\Max3\obj\Debug\net8.0\Max3.pdb
+D:\Hema\Max3\Max3\obj\Debug\net8.0\Max3.genruntimeconfig.cache
+D:\Hema\Max3\Max3\obj\Debug\net8.0\ref\Max3.dll

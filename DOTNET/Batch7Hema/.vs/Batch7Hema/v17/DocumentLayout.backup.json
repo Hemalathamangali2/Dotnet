@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hema\\Batch7Hema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FF9F41-6413-4813-88C9-BCDA0783B23E}|Batch7Hema\\Batch7hema.csproj|d:\\hema\\batch7hema\\batch7hema\\batch7hema.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E5FF9F41-6413-4813-88C9-BCDA0783B23E}|Batch7Hema\\Batch7hema.csproj|solutionrelative:batch7hema\\batch7hema.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FF9F41-6413-4813-88C9-BCDA0783B23E}|Batch7Hema\\Batch7hema.csproj|d:\\hema\\batch7hema\\batch7hema\\linqtoxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FF9F41-6413-4813-88C9-BCDA0783B23E}|Batch7Hema\\Batch7hema.csproj|solutionrelative:batch7hema\\linqtoxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FF9F41-6413-4813-88C9-BCDA0783B23E}|Batch7Hema\\Batch7hema.csproj|d:\\hema\\batch7hema\\batch7hema\\multiclassdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FF9F41-6413-4813-88C9-BCDA0783B23E}|Batch7Hema\\Batch7hema.csproj|solutionrelative:batch7hema\\multiclassdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FF9F41-6413-4813-88C9-BCDA0783B23E}|Batch7Hema\\Batch7hema.csproj|d:\\hema\\batch7hema\\batch7hema\\duplicateofthearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FF9F41-6413-4813-88C9-BCDA0783B23E}|Batch7Hema\\Batch7hema.csproj|solutionrelative:batch7hema\\duplicateofthearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FF9F41-6413-4813-88C9-BCDA0783B23E}|Batch7Hema\\Batch7hema.csproj|d:\\hema\\batch7hema\\batch7hema\\sizeofarr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FF9F41-6413-4813-88C9-BCDA0783B23E}|Batch7Hema\\Batch7hema.csproj|solutionrelative:batch7hema\\sizeofarr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FF9F41-6413-4813-88C9-BCDA0783B23E}|Batch7Hema\\Batch7hema.csproj|d:\\hema\\batch7hema\\batch7hema\\arrmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FF9F41-6413-4813-88C9-BCDA0783B23E}|Batch7Hema\\Batch7hema.csproj|solutionrelative:batch7hema\\arrmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Hema\\Batch7Hema\\Batch7Hema\\properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Batch7Hema\\properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FF9F41-6413-4813-88C9-BCDA0783B23E}|Batch7Hema\\Batch7hema.csproj|d:\\hema\\batch7hema\\batch7hema\\collegeex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FF9F41-6413-4813-88C9-BCDA0783B23E}|Batch7Hema\\Batch7hema.csproj|solutionrelative:batch7hema\\collegeex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FF9F41-6413-4813-88C9-BCDA0783B23E}|Batch7Hema\\Batch7hema.csproj|d:\\hema\\batch7hema\\batch7hema\\greaterlesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FF9F41-6413-4813-88C9-BCDA0783B23E}|Batch7Hema\\Batch7hema.csproj|solutionrelative:batch7hema\\greaterlesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Batch7hema",
+              "DocumentMoniker": "D:\\Hema\\Batch7Hema\\Batch7Hema\\Batch7hema.csproj",
+              "RelativeDocumentMoniker": "Batch7Hema\\Batch7hema.csproj",
+              "ToolTip": "D:\\Hema\\Batch7Hema\\Batch7Hema\\Batch7hema.csproj",
+              "RelativeToolTip": "Batch7Hema\\Batch7hema.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T09:02:50.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinqToXml.cs",
+              "DocumentMoniker": "D:\\Hema\\Batch7Hema\\Batch7Hema\\LinqToXml.cs",
+              "RelativeDocumentMoniker": "Batch7Hema\\LinqToXml.cs",
+              "ToolTip": "D:\\Hema\\Batch7Hema\\Batch7Hema\\LinqToXml.cs*",
+              "RelativeToolTip": "Batch7Hema\\LinqToXml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:40:14.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultiClassDelegate.cs",
+              "DocumentMoniker": "D:\\Hema\\Batch7Hema\\Batch7Hema\\MultiClassDelegate.cs",
+              "RelativeDocumentMoniker": "Batch7Hema\\MultiClassDelegate.cs",
+              "ToolTip": "D:\\Hema\\Batch7Hema\\Batch7Hema\\MultiClassDelegate.cs",
+              "RelativeToolTip": "Batch7Hema\\MultiClassDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T04:35:43.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "properties.cs",
+              "DocumentMoniker": "D:\\Hema\\Batch7Hema\\Batch7Hema\\properties.cs",
+              "RelativeDocumentMoniker": "Batch7Hema\\properties.cs",
+              "ToolTip": "D:\\Hema\\Batch7Hema\\Batch7Hema\\properties.cs",
+              "RelativeToolTip": "Batch7Hema\\properties.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:32:54.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CollegeEx.cs",
+              "DocumentMoniker": "D:\\Hema\\Batch7Hema\\Batch7Hema\\CollegeEx.cs",
+              "RelativeDocumentMoniker": "Batch7Hema\\CollegeEx.cs",
+              "ToolTip": "D:\\Hema\\Batch7Hema\\Batch7Hema\\CollegeEx.cs",
+              "RelativeToolTip": "Batch7Hema\\CollegeEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:42:27.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DuplicateoftheArray.cs",
+              "DocumentMoniker": "D:\\Hema\\Batch7Hema\\Batch7Hema\\DuplicateoftheArray.cs",
+              "RelativeDocumentMoniker": "Batch7Hema\\DuplicateoftheArray.cs",
+              "ToolTip": "D:\\Hema\\Batch7Hema\\Batch7Hema\\DuplicateoftheArray.cs",
+              "RelativeToolTip": "Batch7Hema\\DuplicateoftheArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:07:56.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SizeOfArr.cs",
+              "DocumentMoniker": "D:\\Hema\\Batch7Hema\\Batch7Hema\\SizeOfArr.cs",
+              "RelativeDocumentMoniker": "Batch7Hema\\SizeOfArr.cs",
+              "ToolTip": "D:\\Hema\\Batch7Hema\\Batch7Hema\\SizeOfArr.cs",
+              "RelativeToolTip": "Batch7Hema\\SizeOfArr.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:18:11.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArrMethods.cs",
+              "DocumentMoniker": "D:\\Hema\\Batch7Hema\\Batch7Hema\\ArrMethods.cs",
+              "RelativeDocumentMoniker": "Batch7Hema\\ArrMethods.cs",
+              "ToolTip": "D:\\Hema\\Batch7Hema\\Batch7Hema\\ArrMethods.cs",
+              "RelativeToolTip": "Batch7Hema\\ArrMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:11:56.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Greaterlesser.cs",
+              "DocumentMoniker": "D:\\Hema\\Batch7Hema\\Batch7Hema\\Greaterlesser.cs",
+              "RelativeDocumentMoniker": "Batch7Hema\\Greaterlesser.cs",
+              "ToolTip": "D:\\Hema\\Batch7Hema\\Batch7Hema\\Greaterlesser.cs",
+              "RelativeToolTip": "Batch7Hema\\Greaterlesser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:36:36.77Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

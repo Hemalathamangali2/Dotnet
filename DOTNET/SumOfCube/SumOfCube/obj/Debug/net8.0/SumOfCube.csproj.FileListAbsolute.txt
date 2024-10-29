@@ -1,0 +1,14 @@
+D:\Hema\SumOfCube\SumOfCube\bin\Debug\net8.0\SumOfCube.exe
+D:\Hema\SumOfCube\SumOfCube\bin\Debug\net8.0\SumOfCube.deps.json
+D:\Hema\SumOfCube\SumOfCube\bin\Debug\net8.0\SumOfCube.runtimeconfig.json
+D:\Hema\SumOfCube\SumOfCube\bin\Debug\net8.0\SumOfCube.dll
+D:\Hema\SumOfCube\SumOfCube\bin\Debug\net8.0\SumOfCube.pdb
+D:\Hema\SumOfCube\SumOfCube\obj\Debug\net8.0\SumOfCube.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hema\SumOfCube\SumOfCube\obj\Debug\net8.0\SumOfCube.AssemblyInfoInputs.cache
+D:\Hema\SumOfCube\SumOfCube\obj\Debug\net8.0\SumOfCube.AssemblyInfo.cs
+D:\Hema\SumOfCube\SumOfCube\obj\Debug\net8.0\SumOfCube.csproj.CoreCompileInputs.cache
+D:\Hema\SumOfCube\SumOfCube\obj\Debug\net8.0\SumOfCube.dll
+D:\Hema\SumOfCube\SumOfCube\obj\Debug\net8.0\refint\SumOfCube.dll
+D:\Hema\SumOfCube\SumOfCube\obj\Debug\net8.0\SumOfCube.pdb
+D:\Hema\SumOfCube\SumOfCube\obj\Debug\net8.0\SumOfCube.genruntimeconfig.cache
+D:\Hema\SumOfCube\SumOfCube\obj\Debug\net8.0\ref\SumOfCube.dll

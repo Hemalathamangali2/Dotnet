@@ -1,0 +1,14 @@
+D:\Hema\SerEx\SerEx\bin\Debug\net8.0\SerEx.exe
+D:\Hema\SerEx\SerEx\bin\Debug\net8.0\SerEx.deps.json
+D:\Hema\SerEx\SerEx\bin\Debug\net8.0\SerEx.runtimeconfig.json
+D:\Hema\SerEx\SerEx\bin\Debug\net8.0\SerEx.dll
+D:\Hema\SerEx\SerEx\bin\Debug\net8.0\SerEx.pdb
+D:\Hema\SerEx\SerEx\obj\Debug\net8.0\SerEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hema\SerEx\SerEx\obj\Debug\net8.0\SerEx.AssemblyInfoInputs.cache
+D:\Hema\SerEx\SerEx\obj\Debug\net8.0\SerEx.AssemblyInfo.cs
+D:\Hema\SerEx\SerEx\obj\Debug\net8.0\SerEx.csproj.CoreCompileInputs.cache
+D:\Hema\SerEx\SerEx\obj\Debug\net8.0\SerEx.dll
+D:\Hema\SerEx\SerEx\obj\Debug\net8.0\refint\SerEx.dll
+D:\Hema\SerEx\SerEx\obj\Debug\net8.0\SerEx.pdb
+D:\Hema\SerEx\SerEx\obj\Debug\net8.0\SerEx.genruntimeconfig.cache
+D:\Hema\SerEx\SerEx\obj\Debug\net8.0\ref\SerEx.dll

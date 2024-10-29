@@ -1,0 +1,14 @@
+D:\Hema\RepeatedNums\RepeatedNums\obj\Debug\net8.0\RepeatedNums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hema\RepeatedNums\RepeatedNums\obj\Debug\net8.0\RepeatedNums.AssemblyInfoInputs.cache
+D:\Hema\RepeatedNums\RepeatedNums\obj\Debug\net8.0\RepeatedNums.AssemblyInfo.cs
+D:\Hema\RepeatedNums\RepeatedNums\obj\Debug\net8.0\RepeatedNums.csproj.CoreCompileInputs.cache
+D:\Hema\RepeatedNums\RepeatedNums\bin\Debug\net8.0\RepeatedNums.exe
+D:\Hema\RepeatedNums\RepeatedNums\bin\Debug\net8.0\RepeatedNums.deps.json
+D:\Hema\RepeatedNums\RepeatedNums\bin\Debug\net8.0\RepeatedNums.runtimeconfig.json
+D:\Hema\RepeatedNums\RepeatedNums\bin\Debug\net8.0\RepeatedNums.dll
+D:\Hema\RepeatedNums\RepeatedNums\bin\Debug\net8.0\RepeatedNums.pdb
+D:\Hema\RepeatedNums\RepeatedNums\obj\Debug\net8.0\RepeatedNums.dll
+D:\Hema\RepeatedNums\RepeatedNums\obj\Debug\net8.0\refint\RepeatedNums.dll
+D:\Hema\RepeatedNums\RepeatedNums\obj\Debug\net8.0\RepeatedNums.pdb
+D:\Hema\RepeatedNums\RepeatedNums\obj\Debug\net8.0\RepeatedNums.genruntimeconfig.cache
+D:\Hema\RepeatedNums\RepeatedNums\obj\Debug\net8.0\ref\RepeatedNums.dll

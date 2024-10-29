@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hema\\DatabaseFirstApproachWithOneTAble\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4704B3C-B9E8-4EC1-8B36-44AFE2FC3374}|DatabaseFirstApproachWithOneTAble\\DatabaseFirstApproachWithOneTAble.csproj|d:\\hema\\databasefirstapproachwithonetable\\databasefirstapproachwithonetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4704B3C-B9E8-4EC1-8B36-44AFE2FC3374}|DatabaseFirstApproachWithOneTAble\\DatabaseFirstApproachWithOneTAble.csproj|solutionrelative:databasefirstapproachwithonetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4704B3C-B9E8-4EC1-8B36-44AFE2FC3374}|DatabaseFirstApproachWithOneTAble\\DatabaseFirstApproachWithOneTAble.csproj|d:\\hema\\databasefirstapproachwithonetable\\databasefirstapproachwithonetable\\models\\countryhemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4704B3C-B9E8-4EC1-8B36-44AFE2FC3374}|DatabaseFirstApproachWithOneTAble\\DatabaseFirstApproachWithOneTAble.csproj|solutionrelative:databasefirstapproachwithonetable\\models\\countryhemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4704B3C-B9E8-4EC1-8B36-44AFE2FC3374}|DatabaseFirstApproachWithOneTAble\\DatabaseFirstApproachWithOneTAble.csproj|d:\\hema\\databasefirstapproachwithonetable\\databasefirstapproachwithonetable\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4704B3C-B9E8-4EC1-8B36-44AFE2FC3374}|DatabaseFirstApproachWithOneTAble\\DatabaseFirstApproachWithOneTAble.csproj|solutionrelative:databasefirstapproachwithonetable\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4704B3C-B9E8-4EC1-8B36-44AFE2FC3374}|DatabaseFirstApproachWithOneTAble\\DatabaseFirstApproachWithOneTAble.csproj|d:\\hema\\databasefirstapproachwithonetable\\databasefirstapproachwithonetable\\controllers\\tblcountriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4704B3C-B9E8-4EC1-8B36-44AFE2FC3374}|DatabaseFirstApproachWithOneTAble\\DatabaseFirstApproachWithOneTAble.csproj|solutionrelative:databasefirstapproachwithonetable\\controllers\\tblcountriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TblCountriesController.cs",
+              "DocumentMoniker": "D:\\Hema\\DatabaseFirstApproachWithOneTAble\\DatabaseFirstApproachWithOneTAble\\Controllers\\TblCountriesController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApproachWithOneTAble\\Controllers\\TblCountriesController.cs",
+              "ToolTip": "D:\\Hema\\DatabaseFirstApproachWithOneTAble\\DatabaseFirstApproachWithOneTAble\\Controllers\\TblCountriesController.cs",
+              "RelativeToolTip": "DatabaseFirstApproachWithOneTAble\\Controllers\\TblCountriesController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:52:14.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hema\\DatabaseFirstApproachWithOneTAble\\DatabaseFirstApproachWithOneTAble\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApproachWithOneTAble\\Program.cs",
+              "ToolTip": "D:\\Hema\\DatabaseFirstApproachWithOneTAble\\DatabaseFirstApproachWithOneTAble\\Program.cs",
+              "RelativeToolTip": "DatabaseFirstApproachWithOneTAble\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:47:38.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Hema\\DatabaseFirstApproachWithOneTAble\\DatabaseFirstApproachWithOneTAble\\appsettings.json",
+              "RelativeDocumentMoniker": "DatabaseFirstApproachWithOneTAble\\appsettings.json",
+              "ToolTip": "D:\\Hema\\DatabaseFirstApproachWithOneTAble\\DatabaseFirstApproachWithOneTAble\\appsettings.json",
+              "RelativeToolTip": "DatabaseFirstApproachWithOneTAble\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T06:17:31.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryHemaContext.cs",
+              "DocumentMoniker": "D:\\Hema\\DatabaseFirstApproachWithOneTAble\\DatabaseFirstApproachWithOneTAble\\Models\\CountryHemaContext.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApproachWithOneTAble\\Models\\CountryHemaContext.cs",
+              "ToolTip": "D:\\Hema\\DatabaseFirstApproachWithOneTAble\\DatabaseFirstApproachWithOneTAble\\Models\\CountryHemaContext.cs",
+              "RelativeToolTip": "DatabaseFirstApproachWithOneTAble\\Models\\CountryHemaContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:17:27.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

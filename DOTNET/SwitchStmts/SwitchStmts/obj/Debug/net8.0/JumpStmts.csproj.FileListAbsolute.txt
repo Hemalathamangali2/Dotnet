@@ -1,0 +1,4 @@
+D:\Hema\SwitchStmts\SwitchStmts\obj\Debug\net8.0\JumpStmts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hema\SwitchStmts\SwitchStmts\obj\Debug\net8.0\JumpStmts.AssemblyInfoInputs.cache
+D:\Hema\SwitchStmts\SwitchStmts\obj\Debug\net8.0\JumpStmts.AssemblyInfo.cs
+D:\Hema\SwitchStmts\SwitchStmts\obj\Debug\net8.0\JumpStmts.csproj.CoreCompileInputs.cache

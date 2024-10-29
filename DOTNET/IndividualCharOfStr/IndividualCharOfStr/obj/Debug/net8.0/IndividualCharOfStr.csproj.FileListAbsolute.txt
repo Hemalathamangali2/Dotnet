@@ -1,0 +1,14 @@
+D:\Hema\IndividualCharOfStr\IndividualCharOfStr\bin\Debug\net8.0\IndividualCharOfStr.exe
+D:\Hema\IndividualCharOfStr\IndividualCharOfStr\bin\Debug\net8.0\IndividualCharOfStr.deps.json
+D:\Hema\IndividualCharOfStr\IndividualCharOfStr\bin\Debug\net8.0\IndividualCharOfStr.runtimeconfig.json
+D:\Hema\IndividualCharOfStr\IndividualCharOfStr\bin\Debug\net8.0\IndividualCharOfStr.dll
+D:\Hema\IndividualCharOfStr\IndividualCharOfStr\bin\Debug\net8.0\IndividualCharOfStr.pdb
+D:\Hema\IndividualCharOfStr\IndividualCharOfStr\obj\Debug\net8.0\IndividualCharOfStr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hema\IndividualCharOfStr\IndividualCharOfStr\obj\Debug\net8.0\IndividualCharOfStr.AssemblyInfoInputs.cache
+D:\Hema\IndividualCharOfStr\IndividualCharOfStr\obj\Debug\net8.0\IndividualCharOfStr.AssemblyInfo.cs
+D:\Hema\IndividualCharOfStr\IndividualCharOfStr\obj\Debug\net8.0\IndividualCharOfStr.csproj.CoreCompileInputs.cache
+D:\Hema\IndividualCharOfStr\IndividualCharOfStr\obj\Debug\net8.0\IndividualCharOfStr.dll
+D:\Hema\IndividualCharOfStr\IndividualCharOfStr\obj\Debug\net8.0\refint\IndividualCharOfStr.dll
+D:\Hema\IndividualCharOfStr\IndividualCharOfStr\obj\Debug\net8.0\IndividualCharOfStr.pdb
+D:\Hema\IndividualCharOfStr\IndividualCharOfStr\obj\Debug\net8.0\IndividualCharOfStr.genruntimeconfig.cache
+D:\Hema\IndividualCharOfStr\IndividualCharOfStr\obj\Debug\net8.0\ref\IndividualCharOfStr.dll

@@ -1,0 +1,14 @@
+D:\Hema\Ingredient\Ingredient\bin\Debug\net8.0\Ingredient.exe
+D:\Hema\Ingredient\Ingredient\bin\Debug\net8.0\Ingredient.deps.json
+D:\Hema\Ingredient\Ingredient\bin\Debug\net8.0\Ingredient.runtimeconfig.json
+D:\Hema\Ingredient\Ingredient\bin\Debug\net8.0\Ingredient.dll
+D:\Hema\Ingredient\Ingredient\bin\Debug\net8.0\Ingredient.pdb
+D:\Hema\Ingredient\Ingredient\obj\Debug\net8.0\Ingredient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hema\Ingredient\Ingredient\obj\Debug\net8.0\Ingredient.AssemblyInfoInputs.cache
+D:\Hema\Ingredient\Ingredient\obj\Debug\net8.0\Ingredient.AssemblyInfo.cs
+D:\Hema\Ingredient\Ingredient\obj\Debug\net8.0\Ingredient.csproj.CoreCompileInputs.cache
+D:\Hema\Ingredient\Ingredient\obj\Debug\net8.0\Ingredient.dll
+D:\Hema\Ingredient\Ingredient\obj\Debug\net8.0\refint\Ingredient.dll
+D:\Hema\Ingredient\Ingredient\obj\Debug\net8.0\Ingredient.pdb
+D:\Hema\Ingredient\Ingredient\obj\Debug\net8.0\Ingredient.genruntimeconfig.cache
+D:\Hema\Ingredient\Ingredient\obj\Debug\net8.0\ref\Ingredient.dll

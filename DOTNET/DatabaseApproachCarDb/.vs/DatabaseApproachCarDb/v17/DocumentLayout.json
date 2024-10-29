@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hema\\DatabaseApproachCarDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D3C864-E783-4C22-918D-2E7CD14FA357}|DatabaseApproachCarDb\\DatabaseApproachCarDb.csproj|d:\\hema\\databaseapproachcardb\\databaseapproachcardb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D3C864-E783-4C22-918D-2E7CD14FA357}|DatabaseApproachCarDb\\DatabaseApproachCarDb.csproj|solutionrelative:databaseapproachcardb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D3C864-E783-4C22-918D-2E7CD14FA357}|DatabaseApproachCarDb\\DatabaseApproachCarDb.csproj|d:\\hema\\databaseapproachcardb\\databaseapproachcardb\\controllers\\enginescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D3C864-E783-4C22-918D-2E7CD14FA357}|DatabaseApproachCarDb\\DatabaseApproachCarDb.csproj|solutionrelative:databaseapproachcardb\\controllers\\enginescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D3C864-E783-4C22-918D-2E7CD14FA357}|DatabaseApproachCarDb\\DatabaseApproachCarDb.csproj|d:\\hema\\databaseapproachcardb\\databaseapproachcardb\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D3C864-E783-4C22-918D-2E7CD14FA357}|DatabaseApproachCarDb\\DatabaseApproachCarDb.csproj|solutionrelative:databaseapproachcardb\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D3C864-E783-4C22-918D-2E7CD14FA357}|DatabaseApproachCarDb\\DatabaseApproachCarDb.csproj|d:\\hema\\databaseapproachcardb\\databaseapproachcardb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0D3C864-E783-4C22-918D-2E7CD14FA357}|DatabaseApproachCarDb\\DatabaseApproachCarDb.csproj|solutionrelative:databaseapproachcardb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D3C864-E783-4C22-918D-2E7CD14FA357}|DatabaseApproachCarDb\\DatabaseApproachCarDb.csproj|d:\\hema\\databaseapproachcardb\\databaseapproachcardb\\models\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D3C864-E783-4C22-918D-2E7CD14FA357}|DatabaseApproachCarDb\\DatabaseApproachCarDb.csproj|solutionrelative:databaseapproachcardb\\models\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnginesController.cs",
+              "DocumentMoniker": "D:\\Hema\\DatabaseApproachCarDb\\DatabaseApproachCarDb\\Controllers\\EnginesController.cs",
+              "RelativeDocumentMoniker": "DatabaseApproachCarDb\\Controllers\\EnginesController.cs",
+              "ToolTip": "D:\\Hema\\DatabaseApproachCarDb\\DatabaseApproachCarDb\\Controllers\\EnginesController.cs",
+              "RelativeToolTip": "DatabaseApproachCarDb\\Controllers\\EnginesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:52:32.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "D:\\Hema\\DatabaseApproachCarDb\\DatabaseApproachCarDb\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "DatabaseApproachCarDb\\Controllers\\CarsController.cs",
+              "ToolTip": "D:\\Hema\\DatabaseApproachCarDb\\DatabaseApproachCarDb\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "DatabaseApproachCarDb\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:52:00.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hema\\DatabaseApproachCarDb\\DatabaseApproachCarDb\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseApproachCarDb\\Program.cs",
+              "ToolTip": "D:\\Hema\\DatabaseApproachCarDb\\DatabaseApproachCarDb\\Program.cs",
+              "RelativeToolTip": "DatabaseApproachCarDb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:46:17.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Hema\\DatabaseApproachCarDb\\DatabaseApproachCarDb\\appsettings.json",
+              "RelativeDocumentMoniker": "DatabaseApproachCarDb\\appsettings.json",
+              "ToolTip": "D:\\Hema\\DatabaseApproachCarDb\\DatabaseApproachCarDb\\appsettings.json",
+              "RelativeToolTip": "DatabaseApproachCarDb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T11:47:02.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarDbContext.cs",
+              "DocumentMoniker": "D:\\Hema\\DatabaseApproachCarDb\\DatabaseApproachCarDb\\Models\\CarDbContext.cs",
+              "RelativeDocumentMoniker": "DatabaseApproachCarDb\\Models\\CarDbContext.cs",
+              "ToolTip": "D:\\Hema\\DatabaseApproachCarDb\\DatabaseApproachCarDb\\Models\\CarDbContext.cs",
+              "RelativeToolTip": "DatabaseApproachCarDb\\Models\\CarDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:46:22.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

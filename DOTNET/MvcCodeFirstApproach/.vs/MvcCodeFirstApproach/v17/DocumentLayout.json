@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hema\\MvcCodeFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B0704A-8693-4EC3-88F1-823CA7E9080D}|MvcCodeFirstApproach\\MvcCodeFirstApproach.csproj|d:\\hema\\mvccodefirstapproach\\mvccodefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B0704A-8693-4EC3-88F1-823CA7E9080D}|MvcCodeFirstApproach\\MvcCodeFirstApproach.csproj|solutionrelative:mvccodefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B0704A-8693-4EC3-88F1-823CA7E9080D}|MvcCodeFirstApproach\\MvcCodeFirstApproach.csproj|d:\\hema\\mvccodefirstapproach\\mvccodefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7B0704A-8693-4EC3-88F1-823CA7E9080D}|MvcCodeFirstApproach\\MvcCodeFirstApproach.csproj|solutionrelative:mvccodefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B0704A-8693-4EC3-88F1-823CA7E9080D}|MvcCodeFirstApproach\\MvcCodeFirstApproach.csproj|d:\\hema\\mvccodefirstapproach\\mvccodefirstapproach\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B0704A-8693-4EC3-88F1-823CA7E9080D}|MvcCodeFirstApproach\\MvcCodeFirstApproach.csproj|solutionrelative:mvccodefirstapproach\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B0704A-8693-4EC3-88F1-823CA7E9080D}|MvcCodeFirstApproach\\MvcCodeFirstApproach.csproj|d:\\hema\\mvccodefirstapproach\\mvccodefirstapproach\\controllers\\employeemodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B0704A-8693-4EC3-88F1-823CA7E9080D}|MvcCodeFirstApproach\\MvcCodeFirstApproach.csproj|solutionrelative:mvccodefirstapproach\\controllers\\employeemodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B0704A-8693-4EC3-88F1-823CA7E9080D}|MvcCodeFirstApproach\\MvcCodeFirstApproach.csproj|d:\\hema\\mvccodefirstapproach\\mvccodefirstapproach\\migrations\\20241016072627_empinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B0704A-8693-4EC3-88F1-823CA7E9080D}|MvcCodeFirstApproach\\MvcCodeFirstApproach.csproj|solutionrelative:mvccodefirstapproach\\migrations\\20241016072627_empinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B0704A-8693-4EC3-88F1-823CA7E9080D}|MvcCodeFirstApproach\\MvcCodeFirstApproach.csproj|d:\\hema\\mvccodefirstapproach\\mvccodefirstapproach\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B0704A-8693-4EC3-88F1-823CA7E9080D}|MvcCodeFirstApproach\\MvcCodeFirstApproach.csproj|solutionrelative:mvccodefirstapproach\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeModelController.cs",
+              "DocumentMoniker": "D:\\Hema\\MvcCodeFirstApproach\\MvcCodeFirstApproach\\Controllers\\EmployeeModelController.cs",
+              "RelativeDocumentMoniker": "MvcCodeFirstApproach\\Controllers\\EmployeeModelController.cs",
+              "ToolTip": "D:\\Hema\\MvcCodeFirstApproach\\MvcCodeFirstApproach\\Controllers\\EmployeeModelController.cs",
+              "RelativeToolTip": "MvcCodeFirstApproach\\Controllers\\EmployeeModelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:36:57.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241016072627_EmpInit.cs",
+              "DocumentMoniker": "D:\\Hema\\MvcCodeFirstApproach\\MvcCodeFirstApproach\\Migrations\\20241016072627_EmpInit.cs",
+              "RelativeDocumentMoniker": "MvcCodeFirstApproach\\Migrations\\20241016072627_EmpInit.cs",
+              "ToolTip": "D:\\Hema\\MvcCodeFirstApproach\\MvcCodeFirstApproach\\Migrations\\20241016072627_EmpInit.cs",
+              "RelativeToolTip": "MvcCodeFirstApproach\\Migrations\\20241016072627_EmpInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:26:28.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hema\\MvcCodeFirstApproach\\MvcCodeFirstApproach\\Program.cs",
+              "RelativeDocumentMoniker": "MvcCodeFirstApproach\\Program.cs",
+              "ToolTip": "D:\\Hema\\MvcCodeFirstApproach\\MvcCodeFirstApproach\\Program.cs",
+              "RelativeToolTip": "MvcCodeFirstApproach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:08:47.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Hema\\MvcCodeFirstApproach\\MvcCodeFirstApproach\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcCodeFirstApproach\\appsettings.json",
+              "ToolTip": "D:\\Hema\\MvcCodeFirstApproach\\MvcCodeFirstApproach\\appsettings.json",
+              "RelativeToolTip": "MvcCodeFirstApproach\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T06:32:24.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "D:\\Hema\\MvcCodeFirstApproach\\MvcCodeFirstApproach\\Models\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "MvcCodeFirstApproach\\Models\\EmployeeDBContext.cs",
+              "ToolTip": "D:\\Hema\\MvcCodeFirstApproach\\MvcCodeFirstApproach\\Models\\EmployeeDBContext.cs",
+              "RelativeToolTip": "MvcCodeFirstApproach\\Models\\EmployeeDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:21:27.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "D:\\Hema\\MvcCodeFirstApproach\\MvcCodeFirstApproach\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "MvcCodeFirstApproach\\Models\\EmployeeModel.cs",
+              "ToolTip": "D:\\Hema\\MvcCodeFirstApproach\\MvcCodeFirstApproach\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "MvcCodeFirstApproach\\Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:04:39.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

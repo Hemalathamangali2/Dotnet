@@ -1,0 +1,14 @@
+D:\Hema\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\EmployeeDesignation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hema\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\EmployeeDesignation.AssemblyInfoInputs.cache
+D:\Hema\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\EmployeeDesignation.AssemblyInfo.cs
+D:\Hema\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\EmployeeDesignation.csproj.CoreCompileInputs.cache
+D:\Hema\EmployeeDesignation\EmployeeDesignation\bin\Debug\net8.0\EmployeeDesignation.exe
+D:\Hema\EmployeeDesignation\EmployeeDesignation\bin\Debug\net8.0\EmployeeDesignation.deps.json
+D:\Hema\EmployeeDesignation\EmployeeDesignation\bin\Debug\net8.0\EmployeeDesignation.runtimeconfig.json
+D:\Hema\EmployeeDesignation\EmployeeDesignation\bin\Debug\net8.0\EmployeeDesignation.dll
+D:\Hema\EmployeeDesignation\EmployeeDesignation\bin\Debug\net8.0\EmployeeDesignation.pdb
+D:\Hema\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\EmployeeDesignation.dll
+D:\Hema\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\refint\EmployeeDesignation.dll
+D:\Hema\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\EmployeeDesignation.pdb
+D:\Hema\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\EmployeeDesignation.genruntimeconfig.cache
+D:\Hema\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\ref\EmployeeDesignation.dll

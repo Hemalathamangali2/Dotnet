@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hema\\StudentDetails\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27599BE1-2AD4-4FFC-8B52-5EB7096D46D0}|StudentDetails\\StudentDetails.csproj|d:\\hema\\studentdetails\\studentdetails\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27599BE1-2AD4-4FFC-8B52-5EB7096D46D0}|StudentDetails\\StudentDetails.csproj|solutionrelative:studentdetails\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27599BE1-2AD4-4FFC-8B52-5EB7096D46D0}|StudentDetails\\StudentDetails.csproj|d:\\hema\\studentdetails\\studentdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27599BE1-2AD4-4FFC-8B52-5EB7096D46D0}|StudentDetails\\StudentDetails.csproj|solutionrelative:studentdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27599BE1-2AD4-4FFC-8B52-5EB7096D46D0}|StudentDetails\\StudentDetails.csproj|d:\\hema\\studentdetails\\studentdetails\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27599BE1-2AD4-4FFC-8B52-5EB7096D46D0}|StudentDetails\\StudentDetails.csproj|solutionrelative:studentdetails\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27599BE1-2AD4-4FFC-8B52-5EB7096D46D0}|StudentDetails\\StudentDetails.csproj|d:\\hema\\studentdetails\\studentdetails\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27599BE1-2AD4-4FFC-8B52-5EB7096D46D0}|StudentDetails\\StudentDetails.csproj|solutionrelative:studentdetails\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Hema\\StudentDetails\\StudentDetails\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentDetails\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Hema\\StudentDetails\\StudentDetails\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentDetails\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAUwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:22:07.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\Hema\\StudentDetails\\StudentDetails\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "StudentDetails\\Models\\SchoolContext.cs",
+              "ToolTip": "D:\\Hema\\StudentDetails\\StudentDetails\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "StudentDetails\\Models\\SchoolContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:17:07.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Hema\\StudentDetails\\StudentDetails\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentDetails\\appsettings.json",
+              "ToolTip": "D:\\Hema\\StudentDetails\\StudentDetails\\appsettings.json",
+              "RelativeToolTip": "StudentDetails\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T04:59:20.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hema\\StudentDetails\\StudentDetails\\Program.cs",
+              "RelativeDocumentMoniker": "StudentDetails\\Program.cs",
+              "ToolTip": "D:\\Hema\\StudentDetails\\StudentDetails\\Program.cs",
+              "RelativeToolTip": "StudentDetails\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:53:03.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

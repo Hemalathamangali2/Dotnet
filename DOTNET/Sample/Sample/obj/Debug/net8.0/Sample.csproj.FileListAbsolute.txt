@@ -1,0 +1,14 @@
+D:\Hema\Sample\Sample\obj\Debug\net8.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hema\Sample\Sample\obj\Debug\net8.0\Sample.AssemblyInfoInputs.cache
+D:\Hema\Sample\Sample\obj\Debug\net8.0\Sample.AssemblyInfo.cs
+D:\Hema\Sample\Sample\obj\Debug\net8.0\Sample.csproj.CoreCompileInputs.cache
+D:\Hema\Sample\Sample\bin\Debug\net8.0\Sample.exe
+D:\Hema\Sample\Sample\bin\Debug\net8.0\Sample.deps.json
+D:\Hema\Sample\Sample\bin\Debug\net8.0\Sample.runtimeconfig.json
+D:\Hema\Sample\Sample\bin\Debug\net8.0\Sample.dll
+D:\Hema\Sample\Sample\bin\Debug\net8.0\Sample.pdb
+D:\Hema\Sample\Sample\obj\Debug\net8.0\Sample.dll
+D:\Hema\Sample\Sample\obj\Debug\net8.0\refint\Sample.dll
+D:\Hema\Sample\Sample\obj\Debug\net8.0\Sample.pdb
+D:\Hema\Sample\Sample\obj\Debug\net8.0\Sample.genruntimeconfig.cache
+D:\Hema\Sample\Sample\obj\Debug\net8.0\ref\Sample.dll

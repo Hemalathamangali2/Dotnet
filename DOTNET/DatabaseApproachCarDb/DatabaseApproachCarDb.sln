@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseApproachCarDb", "DatabaseApproachCarDb\DatabaseApproachCarDb.csproj", "{C0D3C864-E783-4C22-918D-2E7CD14FA357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0D3C864-E783-4C22-918D-2E7CD14FA357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D3C864-E783-4C22-918D-2E7CD14FA357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D3C864-E783-4C22-918D-2E7CD14FA357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D3C864-E783-4C22-918D-2E7CD14FA357}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBFC8F85-3879-4162-A283-061B53CA7BE3}
+	EndGlobalSection
+EndGlobal

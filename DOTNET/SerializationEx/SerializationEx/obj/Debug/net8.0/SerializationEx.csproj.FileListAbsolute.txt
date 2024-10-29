@@ -1,0 +1,14 @@
+D:\Hema\SerializationEx\SerializationEx\obj\Debug\net8.0\SerializationEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hema\SerializationEx\SerializationEx\obj\Debug\net8.0\SerializationEx.AssemblyInfoInputs.cache
+D:\Hema\SerializationEx\SerializationEx\obj\Debug\net8.0\SerializationEx.AssemblyInfo.cs
+D:\Hema\SerializationEx\SerializationEx\obj\Debug\net8.0\SerializationEx.csproj.CoreCompileInputs.cache
+D:\Hema\SerializationEx\SerializationEx\bin\Debug\net8.0\SerializationEx.exe
+D:\Hema\SerializationEx\SerializationEx\bin\Debug\net8.0\SerializationEx.deps.json
+D:\Hema\SerializationEx\SerializationEx\bin\Debug\net8.0\SerializationEx.runtimeconfig.json
+D:\Hema\SerializationEx\SerializationEx\bin\Debug\net8.0\SerializationEx.dll
+D:\Hema\SerializationEx\SerializationEx\bin\Debug\net8.0\SerializationEx.pdb
+D:\Hema\SerializationEx\SerializationEx\obj\Debug\net8.0\SerializationEx.dll
+D:\Hema\SerializationEx\SerializationEx\obj\Debug\net8.0\refint\SerializationEx.dll
+D:\Hema\SerializationEx\SerializationEx\obj\Debug\net8.0\SerializationEx.pdb
+D:\Hema\SerializationEx\SerializationEx\obj\Debug\net8.0\SerializationEx.genruntimeconfig.cache
+D:\Hema\SerializationEx\SerializationEx\obj\Debug\net8.0\ref\SerializationEx.dll

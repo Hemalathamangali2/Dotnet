@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hema\\SerEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C22715EA-6059-430D-9586-FC4ED460C395}|SerEx\\SerEx.csproj|d:\\hema\\serex\\serex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22715EA-6059-430D-9586-FC4ED460C395}|SerEx\\SerEx.csproj|solutionrelative:serex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hema\\SerEx\\SerEx\\Program.cs",
+              "RelativeDocumentMoniker": "SerEx\\Program.cs",
+              "ToolTip": "D:\\Hema\\SerEx\\SerEx\\Program.cs*",
+              "RelativeToolTip": "SerEx\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:18:56.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

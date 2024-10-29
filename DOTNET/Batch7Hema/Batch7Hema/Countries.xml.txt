@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8?>
+<countries>
+
+<country name = 'India'>
+<city>Delhi</city>
+<city>Mumbai</city>
+<city>Hyderabad</city>
+</country>
+
+<country name = 'Australia'>
+<city>Sydney</city>
+<city>Hobart</city>
+<city>Canberra</city>
+</country> 
+
+<country name = 'Canada'>
+<city>Toronto</city>
+<city>Niagara</city>
+<city>Victoria</city>
+</country> 
+
+<country name = 'USA'>
+<city>Dallas</city>
+<city>Washington</city>
+<city>Chicago</city>
+</country>

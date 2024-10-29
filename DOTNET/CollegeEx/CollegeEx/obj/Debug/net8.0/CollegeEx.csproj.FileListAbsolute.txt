@@ -1,0 +1,14 @@
+D:\Hema\CollegeEx\CollegeEx\bin\Debug\net8.0\CollegeEx.exe
+D:\Hema\CollegeEx\CollegeEx\bin\Debug\net8.0\CollegeEx.deps.json
+D:\Hema\CollegeEx\CollegeEx\bin\Debug\net8.0\CollegeEx.runtimeconfig.json
+D:\Hema\CollegeEx\CollegeEx\bin\Debug\net8.0\CollegeEx.dll
+D:\Hema\CollegeEx\CollegeEx\bin\Debug\net8.0\CollegeEx.pdb
+D:\Hema\CollegeEx\CollegeEx\obj\Debug\net8.0\CollegeEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hema\CollegeEx\CollegeEx\obj\Debug\net8.0\CollegeEx.AssemblyInfoInputs.cache
+D:\Hema\CollegeEx\CollegeEx\obj\Debug\net8.0\CollegeEx.AssemblyInfo.cs
+D:\Hema\CollegeEx\CollegeEx\obj\Debug\net8.0\CollegeEx.csproj.CoreCompileInputs.cache
+D:\Hema\CollegeEx\CollegeEx\obj\Debug\net8.0\CollegeEx.dll
+D:\Hema\CollegeEx\CollegeEx\obj\Debug\net8.0\refint\CollegeEx.dll
+D:\Hema\CollegeEx\CollegeEx\obj\Debug\net8.0\CollegeEx.pdb
+D:\Hema\CollegeEx\CollegeEx\obj\Debug\net8.0\CollegeEx.genruntimeconfig.cache
+D:\Hema\CollegeEx\CollegeEx\obj\Debug\net8.0\ref\CollegeEx.dll
